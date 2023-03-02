@@ -1,0 +1,22 @@
+
+@media(max-width: 770px){
+	.menu-section .col-md-4 div{
+		margin-left: 50px;
+		margin-right: 50px;
+	}
+}
+@media(max-width: 770px){
+	.contact-section .col-md-6 p{
+		margin-left: 100px;
+	}
+}
+@media(max-width: 770px){
+	.contact-section .col-md-6 h4,iframe{
+		margin-left: 100px;
+	}
+}
+@media(max-width: 980px){
+	.menu-section .card-body h5{
+		font-size: 18px;
+	}
+}
